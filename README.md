@@ -16,6 +16,4 @@ The Inventory Management System is designed to streamline inventory operations b
   - Sales data
   - Order dates
 
-**Next Steps**:
-- Design the SQL database schema.
-- Define relationships between `Products`, `Sales`, and `Inventory` tables.
+
