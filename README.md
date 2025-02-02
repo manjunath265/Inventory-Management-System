@@ -4,11 +4,11 @@
 This project focuses on analyzing inventory and sales data using SQL, Python, and Power BI to extract insights that help businesses optimize their stock levels, track sales trends, and improve customer engagement.
 
 ## Objectives
-Analyze total sales and revenue trends.
-Identify fast-moving vs. slow-moving products.
-Understand customer purchase behavior.
-Optimize inventory restocking decisions.
-Visualize insights using Power BI dashboards.
+-Analyze total sales and revenue trends.
+-Identify fast-moving vs. slow-moving products.
+-Understand customer purchase behavior.
+-Optimize inventory restocking decisions.
+-Visualize insights using Power BI dashboards.
 
 
 
