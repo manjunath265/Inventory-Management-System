@@ -35,3 +35,6 @@ Tracks each order and its customer.
 Stores product-related details.
 4️⃣ OrderDetails (orderNumber, productCode, quantityOrdered, priceEach, sales)
 
+### Data Pre-Processing in python
+Aggregate sales data for trend analysis(yearly,monthly,daily)
+
